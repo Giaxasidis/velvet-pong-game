@@ -38,7 +38,7 @@ An exciting and nostalgic pong game with a modern, velvet-themed twist. This web
 1. **Clone or download the repository:**
 
 ```bash
-git clone https://github.com/YourUsername/velvet-pong
+git clone https://github.com/Giaxasidis/velvet-pong
 cd velvet-pong
 ```
 
@@ -99,19 +99,3 @@ Please ensure the code is clean, well-documented, and tested before submitting.
 
 This project is licensed under the **MIT License**.
 See the [LICENSE](./LICENSE) file for full details.
-
-## Author
-
-Created and maintained by **KaloudasDev**.
-If you find this project useful or fun, feel free to give it a star on GitHub!
-
-## Useful Links
-
-* [Email Account](mailto:kaloudasdev@gmail.com)
-* [Discord Account](https://discordapp.com/users/1069279857072160921)
-* [GitHub Repository](https://github.com/KaloudasDev/velvet-pong)
-* [License Information](https://en.wikipedia.org/wiki/MIT_License)  
-
-<br>
-
-![Velvet Pong Logo](assets/game.png)
